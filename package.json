@@ -1,0 +1,16 @@
+{
+  "name": "europeangoldfinch",
+  "version": "1.0.0",
+  "description": "making chat site inspired by prison break",
+  "main": "script.js",
+  "scripts": {
+    "start": "node server.j",
+    "dev": "nodemon server.js"
+  },
+  "author": "Nithesh Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "socket.io": "^4.0.1"
+  }
+}
