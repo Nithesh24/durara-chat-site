@@ -1,4 +1,4 @@
-const socket = io('http://localhost:5000')
+const socket = io()
 
 
 var username = window.prompt("please re-enter your username")

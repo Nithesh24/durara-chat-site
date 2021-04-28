@@ -1,7 +1,7 @@
 const username = document.getElementById("username")
 const password = document.getElementById("password")
 
-const socket = io("http://localhost:5000")
+const socket = io("")
 
 const entry_password = "baccano"
 function enter(){
