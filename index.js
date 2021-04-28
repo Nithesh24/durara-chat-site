@@ -1,7 +1,7 @@
 const username = document.getElementById("username")
 const password = document.getElementById("password")
 
-const socket = io("")
+const socket = io("https://durara-server.herokuapp.com/")
 
 const entry_password = "baccano"
 function enter(){
